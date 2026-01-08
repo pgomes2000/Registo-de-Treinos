@@ -1,0 +1,7 @@
+{
+  "name": "FitTrack AI - Registo de Treinos",
+  "description": "Uma aplicação moderna para registar treinos desportivos com análise inteligente de progresso e recomendações geradas por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
